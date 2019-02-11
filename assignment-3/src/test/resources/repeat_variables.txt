@@ -1,0 +1,15 @@
+#side= 10
+#rotation =90
+#repetitions = 2
+penUp
+penDown
+repeat #repetitions
+    move #side
+    turn #rotation
+end
+move 0
+turn 0
+repeat 1
+    move 10
+    turn 90
+end

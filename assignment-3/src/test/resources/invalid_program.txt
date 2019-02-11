@@ -1,0 +1,6 @@
+move 10
+turn 90
+oops what?
+repeat 4
+    move 1
+end
