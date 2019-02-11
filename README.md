@@ -1,7 +1,12 @@
 # Assignments for CS635: Advanced Object-Oriented Programming and Design
 
 This repository contains 3 out of the 4 assignments done during the CS635 course at SDSU.
-A brief description of each assignment follows:
+
+**NOTE**: These were originally 3 different repositories, which I have subsequently merged into one single repository to simplify things. That's why the original commits have been lost.
+Yes, meddling with the public history is a cardinal sin in git. However, rules are not always set in stone. They're more like guidelines which should be followed with a healthy dosage of common sense. In this case, as these assignments have all been turned in and I've successfully completed this course with an A grade, the original commit history is pointless, and can be safely discarded to the winds of time.
+Please put down your pitchforks.
+
+A brief description of each assignment follows.
 
 ## Assignment 2: Priority Queue
 
